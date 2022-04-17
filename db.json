@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 2
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 3
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 4
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 5
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 6
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 7
+    },
+    {
+      "make": "Mazda",
+      "price": "2000",
+      "model": "6",
+      "year": "1998",
+      "id": 8
+    },
+    {
+      "make": "Mazda",
+      "price": "2000",
+      "model": "6",
+      "year": "2006",
+      "id": 9
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 10
+    },
+    {
+      "make": "",
+      "price": 0,
+      "model": "",
+      "year": 0,
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
